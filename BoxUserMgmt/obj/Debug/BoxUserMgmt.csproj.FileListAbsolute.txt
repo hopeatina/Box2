@@ -1,0 +1,2 @@
+C:\Users\HNAtina\workspace\Box2\BoxUserMgmt\obj\Debug\BoxUserMgmt.csproj.App.config
+C:\Users\HNAtina\workspace\Box2\BoxUserMgmt\obj\Debug\BoxUserMgmt.csprojResolveAssemblyReference.cache

@@ -1,0 +1,2 @@
+C:\Users\HNAtina\workspace\Box2\BoxUserMgmt.JobService\obj\Debug\BoxUserMgmt.JobService.csproj.App.config
+C:\Users\HNAtina\workspace\Box2\BoxUserMgmt.JobService\obj\Debug\BoxUserMgmt.JobService.csprojResolveAssemblyReference.cache
